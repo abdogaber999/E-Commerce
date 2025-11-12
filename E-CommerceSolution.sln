@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E Commerce.Domain", "E Comm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E Commerce.Services", "E Commerce.Services\E Commerce.Services.csproj", "{319EEFD6-F662-4CEC-920C-0054116F2AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E Commerce.Services Abstraction", "E Commerce.Services Abstraction\E Commerce.Services Abstraction.csproj", "{8328D212-CBA0-446A-A109-42CF7489556D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E Commerce.ServicesAbstraction", "E Commerce.Services Abstraction\E Commerce.ServicesAbstraction.csproj", "{8328D212-CBA0-446A-A109-42CF7489556D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InfrastructureLayer", "InfrastructureLayer", "{111BF918-9A52-4A6C-8B36-4B41A4730CE1}"
 EndProject

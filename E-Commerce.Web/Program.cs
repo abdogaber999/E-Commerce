@@ -5,7 +5,7 @@ using E_Commerce.Persistence.Data.DbContexts;
 using E_Commerce.Persistence.Repositories;
 using E_Commerce.Services;
 using E_Commerce.Services.MappingProfiles;
-using E_Commerce.Services_Abstraction;
+using E_Commerce.ServicesAbstraction;
 using E_Commerce.Web.Extensions;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
